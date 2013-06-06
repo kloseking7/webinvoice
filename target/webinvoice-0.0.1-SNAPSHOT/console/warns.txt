@@ -1,0 +1,15 @@
+2013-06-05 22:40:30,044 ERROR SystemSupervisor:48 - Exception is java.lang.RuntimeException: testing happened in  AuthenticationResult com.glassbox.webinvoice.client.service.LoginService.authenticateUser(String,String)
+parameter passed in are:
+class java.lang.Stringclass java.lang.String
+2013-06-05 22:40:32,965 ERROR SystemSupervisor:48 - Exception is java.lang.RuntimeException: testing happened in  AuthenticationResult com.glassbox.webinvoice.client.service.LoginService.authenticateUser(String,String)
+parameter passed in are:
+class java.lang.Stringclass java.lang.String
+2013-06-05 22:40:38,681 ERROR SystemSupervisor:48 - Exception is java.lang.RuntimeException: testing happened in  AuthenticationResult com.glassbox.webinvoice.client.service.LoginService.authenticateUser(String,String)
+parameter passed in are:
+class java.lang.Stringclass java.lang.String
+2013-06-05 22:40:57,176 ERROR SystemSupervisor:48 - Exception is java.lang.RuntimeException: testing happened in  AuthenticationResult com.glassbox.webinvoice.client.service.LoginService.authenticateUser(String,String)
+parameter passed in are:
+class java.lang.Stringclass java.lang.String
+2013-06-05 22:41:27,873 ERROR SystemSupervisor:48 - Exception is java.lang.RuntimeException: testing happened in  AuthenticationResult com.glassbox.webinvoice.client.service.LoginService.authenticateUser(String,String)
+parameter passed in are:
+class java.lang.Stringclass java.lang.String

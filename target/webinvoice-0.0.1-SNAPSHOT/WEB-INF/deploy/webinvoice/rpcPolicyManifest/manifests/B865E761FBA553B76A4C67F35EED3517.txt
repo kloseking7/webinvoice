@@ -1,0 +1,2 @@
+serviceClass: com.glassbox.webinvoice.client.service.LoginService
+path: 467E708E18F50A57A033FD94B8B36817.gwt.rpc
